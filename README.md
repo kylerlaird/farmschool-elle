@@ -3,7 +3,7 @@ Open a terminal session.
 
 Get a copy of the repository to your directory:
 ```
-git clone --recursive git@github.com:kylerlaird/farmschool-elle.git
+git clone --recursive https://github.com/kylerlaird/farmschool-elle.git
 ```
 
 Change the directory so that you are inside your copy of the repository.
