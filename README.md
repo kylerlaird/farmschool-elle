@@ -21,4 +21,4 @@ Visit the URL that it provided to see the content.  (http://127.0.0.1:1111)
 Edit the title and description in config.toml.
 
 Edit content/0000.md to be the first blog post.
-Whenever you write this, the site should be rebuilt and your browser should refresh to reflect the changes.
+Whenever you save this file, the site should be rebuilt and your browser should refresh to reflect the changes.
