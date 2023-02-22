@@ -1,3 +1,3 @@
 [submodule "themes/farmschool-blog"]
 	path = themes/farmschool-blog
-	url = git@github.com:kylerlaird/farmschool-blog-theme.git
+	url = https://github.com/kylerlaird/farmschool-blog-theme.git
